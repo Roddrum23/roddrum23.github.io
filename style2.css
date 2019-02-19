@@ -1,0 +1,40 @@
+body {
+    height: 100%;
+    width: 100%
+      background-position: center;
+  background-image: url("city.jpg");
+  background-size: cover;
+}
+body {
+font-family: 'Montserrat', sans-serif;
+}
+.fakeimg {
+  height: 200px;
+  background: #aaa;
+}
+
+.vale {
+  background-position: center;
+  background-image: url("vale.jpg");
+  background-size: cover;
+  margin:0px;
+}
+.vale h1 {
+  font-size: 4rem;
+  font-weight: bold;
+  color: rgba(255, 255, 255, 1);
+  }
+.vale p {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: rgba(255, 255, 255, 1);
+}
+.cabecera {
+  padding-left: 0px;
+  padding-right: 0px;
+  font-weight: 500;
+}
+.cuerpo {
+  margin:15px;
+  padding:15px;
+}
